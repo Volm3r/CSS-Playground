@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Satisfy&display=swap');
+
+body {
+    background-color: burlywood;
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color:blue;
+    font-family: 'Satisfy', cursive;
+    font-size: 5rem;
+}
+
+.main {
+    border: 3px solid grey; 
+    width: 55%;
+    margin: 1rem auto;
+}
+
+.main div {
+    height: 200px; 
+    width: 200px; 
+    border: 1px solid green; 
+    border-radius: 50%; 
+    margin: 2rem auto;
+}
+
+#red {
+    border-color: red;
+}
+
+#yellow {
+    border-color: yellow;
+}
+
+#green {
+    border-color: green;
+}
+
+.footer {
+    color: salmon;
+    font-family: 'Lato', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
